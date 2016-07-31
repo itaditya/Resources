@@ -1,0 +1,35 @@
+<svg height="163" viewBox="0 0 125 163" width="125" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<path d="M0 2.593C0 1.49.89.538 1.988.465l4.98-.332C8.066.06 8.956.898 8.956 1.996V8.75c0 1.103-.89 2.057-1.988 2.13l-4.98.332C.89 11.285 0 10.447 0 9.348V2.593z" id="a">
+</path></defs>
+<g fill-rule="evenodd" fill="none">
+<path d="M5 127l24.568 15.77v19.703L5 147.195V127z" fill="#DFDFDF"></path>
+<path d="M5 127l24.568 15.77v7.76L5 136.45V127z" fill="#D9D9D9"></path>
+<path d="M30 144.97l89.56-5.97v17.736L30 162.706v-17.735z" fill="#E6E6E6"></path>
+<path d="M30 141.985L119.56 139v5.883L30 150.853v-8.868z" fill="#D9D9D9"></path>
+<path d="M0 16.934L29.853 0v147.226L0 130.292V16.934z" fill="#DFDFDF"></path>
+<path d="M30 0l94.934 4.777v136.728L30 147.475V0z" fill="#E6E6E6"></path>
+<path d="M124.934 97v43.996L30 146.966v-28.39c10.33 5.177 21.99 8.09 34.332 8.09 24.638 0 46.564-11.614 60.602-29.666z" fill="#DFDFDF"></path>
+<path d="M36 7l82.993 4.18v65.677H36V7z" fill="#3A3A3A"></path>
+<path d="M89.27 53.333c-.092 5.276-4.443 9.477-9.718 9.385-5.276-.092-9.477-4.443-9.385-9.718l19.103.333z" fill="#FFF"></path>
+<ellipse cx="50.881" cy="37.881" fill="#FFF" rx="3.881" ry="3.881"></ellipse>
+<ellipse cx="105.881" cy="39.881" fill="#FFF" rx="3.881" ry="3.881"></ellipse>
+<path d="M78 80h41.198v4.18H78z" fill="#3A3A3A"></path>
+<path d="M40 13l41.198 2.388v1.194L40 14.194V13zM40 17l53.14 2.985v1.194L40 18.193V17zM95 18l.597.597v4.18L95 22.18V18z" fill="#14FF1B"></path>
+<ellipse cx="38.09" cy="82.09" fill="#F95858" rx="2.09" ry="2.09"></ellipse>
+<g transform="translate(36 130)">
+<mask fill="#fff" id="b">
+<use xlink:href="#a"></use>
+</mask>
+<use fill="#D8D8D8" xlink:href="#a"></use>
+<g mask="url(#b)">
+<path d="M-1.79.597h18.508v1.79h-18.51z" fill="#60B800"></path>
+<path d="M-1.79 2.388h18.508v1.79h-18.51z" fill="#EECC25"></path>
+<path d="M-1.79 4.18h18.508v1.79h-18.51z" fill="#F6A623"></path>
+<path d="M-1.79 5.97h18.508v1.792h-18.51z" fill="#ED3A65"></path>
+<path d="M-1.79 7.762h18.508v1.79h-18.51z" fill="#813AED"></path>
+<path d="M-1.79 9.553h18.508v1.79h-18.51z" fill="#4990E2"></path>
+</g>
+</g>
+</g>
+</svg>
